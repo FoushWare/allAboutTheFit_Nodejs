@@ -60,6 +60,9 @@ i will start from the system design and then move to the development part.
 
 ## delivery system
 
+- we need notification system to notify the user when the product is shipped
+- we need to have a tracking system to track the product [state updates]
+
 ## cart system
 
 - allow to add products to the cart
@@ -68,3 +71,13 @@ i will start from the system design and then move to the development part.
 - allow to checkout the cart
 
 ## wishlist system
+
+## Resources
+
+- [Design Architcure Arabic](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
+
+- [Hussian Naser Step by Step Basic Microservices System (3 NodeJS + 1 Load Balancer containers) with Docker Compose](https://www.youtube.com/watch?v=9sAg7RooEDc)
+
+- [Building Microservices with Node JS](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
+
+- [Building API Microservices into Docker containers each one with MongoDB and MySQL and API Gateway Pattern in Node.js](https://dev.to/luizcalaca/building-api-microservices-into-docker-containers-each-one-with-mongodb-and-mysql-and-api-gateway-pattern-in-nodejs-4h4j)
